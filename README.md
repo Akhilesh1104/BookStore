@@ -4,6 +4,10 @@
 
 MERN-BookStore is a comprehensive web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) that allows users to efficiently manage and operate a books collection. This project incorporates essential CRUD (Create, Read, Update, Delete) operations to handle books, authors, and other relevant data within the bookstore's inventory.
 
+## Screenshot
+
+![Screenshot 2024-10-11 184513](https://github.com/user-attachments/assets/a227206b-d05c-4951-a10d-8cf8757306f3)
+
 ## Getting Started🚀 
 
 1. Clone this repository.
